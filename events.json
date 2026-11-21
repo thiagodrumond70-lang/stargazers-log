@@ -1,0 +1,26 @@
+[
+  {
+    "repo": "octocat/Hello-World",
+    "name": "Hello-World",
+    "description": "My first repository on GitHub.",
+    "url": "https://github.com/octocat/Hello-World",
+    "language": "Text",
+    "stars": 1200
+  },
+  {
+    "repo": "github/docs",
+    "name": "docs",
+    "description": "The open-source documentation for GitHub.",
+    "url": "https://github.com/github/docs",
+    "language": "JavaScript",
+    "stars": 18800
+  },
+  {
+    "repo": "microsoft/vscode",
+    "name": "vscode",
+    "description": "Visual Studio Code is a code editor redefined.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stars": 181000
+  }
+]
